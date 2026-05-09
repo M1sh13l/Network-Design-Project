@@ -1,31 +1,45 @@
 # Network Design Project
 
 ## Overview
-This project presents a computer network design and simulation developed using Cisco Packet Tracer.
+This network design project was developed for **TechNet Solutions**, a mid-sized IT services company operating through a central Head Office (HO) and three branch offices.
 
-The project demonstrates the implementation of networking concepts including topology design, router and switch configuration, IP addressing, subnetting, and connectivity testing within a simulated environment.
+The goal of the project was to design a reliable, secure, and scalable communication infrastructure that supports seamless connectivity between all company locations and departments, including Administration, Sales, and IT.
 
-A complete project report is also included to document the network structure, implementation process, and configuration details.
+The Head Office hosts centralized network services such as:
+- DHCP
+- DNS
+- HTTP
+- Email Services
+
+Each branch office is connected through configured WAN links, allowing secure access to centralized resources and simplified network management.
+
+The overall network design emphasizes:
+- Stability
+- Simplicity
+- Efficiency
+- Secure communication
+- Centralized service management
 
 ---
 
 ## Features
-- Network topology design
-- Router configuration
-- Switch configuration
+- Multi-site network topology
+- Head Office and Branch Office connectivity
+- Router and switch configuration
+- Centralized DHCP, DNS, HTTP, and Email services
+- WAN link configuration
 - IP addressing and subnetting
-- Connectivity testing
-- Packet Tracer simulation
-- Structured project documentation
+- Connectivity testing and simulation
+- Network segmentation for departments
 
 ---
 
 ## Tools and Technologies
 - Cisco Packet Tracer
 - Networking Fundamentals
-- IP Addressing
-- Subnetting
+- IP Addressing & Subnetting
 - Router & Switch Configuration
+- WAN Configuration
 
 ---
 
@@ -57,7 +71,7 @@ Network-Design-Project/
 packet-tracer/Project.pkt
 ```
 
-3. Review the network topology and configurations.
+3. Review the network topology, configurations, and connectivity between the Head Office and branch offices.
 
 ---
 
@@ -72,7 +86,8 @@ docs/FinalProject_CS2091_Spring2025-Summary.pdf
 The report contains:
 - Network overview
 - Design explanation
-- Configuration details
+- Device configuration
+- Connectivity setup
 - Simulation summary
 
 ---
@@ -86,18 +101,19 @@ The report contains:
 
 ## Learning Outcomes
 This project demonstrates:
-- Practical network design skills
-- Understanding of IP addressing and subnetting
-- Router and switch configuration
-- Network simulation and troubleshooting
+- Enterprise network design
+- WAN connectivity implementation
+- Network segmentation and routing
+- Centralized service management
+- Practical Packet Tracer simulation skills
 - Structured technical documentation
 
 ---
 
 ## Authors
-Mashael Saeed
-Sarah Elshiaty
-Seifeldin Elshiaty
+- Mashael Saeed
+- Sarah Elshiaty
+- Seifeldin Elshiaty
 
 ---
 
